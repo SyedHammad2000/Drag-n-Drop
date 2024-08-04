@@ -1,0 +1,14 @@
+.task{
+    padding: 10px;
+    border-radius: 5px;
+    background-color: #fff;
+    cursor: grab;
+    user-select: none;
+}
+.task:hover{
+    background-color: #f2f2f2;
+}
+.checkbox{
+    margin-right: 10px;
+    cursor: pointer;
+}
